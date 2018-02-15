@@ -60,7 +60,7 @@ Store Id: 382
 
 #### Changes to order 11821
 ```
-Pizza Sauce: classic marinara
+Pizza Sauce: "classic marinara"
 add spinach
 remove sausage
 add a new key called "orderTime", assign it a value of "20 minutes"

@@ -22,7 +22,7 @@ var order11821 = {
 	SpecialInstructions:"please cut into squares",
 	Payment Type:"cash",
 	Store Id:"112",
-	 orderTime:"20 minutes"
+	OrderTime:"20 minutes"
 }
 
 var order11372 = {
